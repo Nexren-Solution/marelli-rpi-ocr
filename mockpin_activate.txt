@@ -1,0 +1,1 @@
+python3 -c "from gpiozero.pins.mock import MockPin; MockPin(2).drive_low()"
